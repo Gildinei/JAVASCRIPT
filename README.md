@@ -13,7 +13,7 @@ As liguaguens de programação precisam de algum método para exibir informaçõ
 ___
 
 ## Comentário de Código
-Exemplos de códigos: [002-console-log](https://github.com/Gildinei/JAVASCRIPT/tree/main/002-comentarios).
+Exemplos de códigos: [002-comentarios](https://github.com/Gildinei/JAVASCRIPT/tree/main/002-comentarios).
 
 ```js
     // Comentário de linha.
@@ -23,4 +23,17 @@ Exemplos de códigos: [002-console-log](https://github.com/Gildinei/JAVASCRIPT/t
     /**
      * Comentário de bloco com quebra de linha.
     */
+```
+
+___
+
+## Chamando arquivo JavaScript
+Exemplos de códigos: [003-linkar-javascript](https://github.com/Gildinei/JAVASCRIPT/tree/main/003-linkar-javascript).
+```js
+    <script>
+        console.log("Incorporado");
+    </script>
+
+    <script src="index.js"></script>
+   
 ```
